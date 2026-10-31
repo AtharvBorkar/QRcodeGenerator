@@ -40,7 +40,7 @@ Make sure you have [Python 3.x](https://www.python.org/downloads/) installed on 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/QRcodeGenerator.git
+git clone https://github.com/AtharvBorkar/QRcodeGenerator.git
 cd QRcodeGenerator
 ```
 
